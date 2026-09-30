@@ -44,18 +44,8 @@ Task (base)
 | `Storage` | Reads/writes tasks.json |
 | `TodoManager` | Business logic — CRUD, search, stats, auto-save |
 
-## How to Run
+👨‍💻 Author
 
-```bash
-python main.py
-```
+Vandana
 
-## Usage Guide
-
-| Option | Action |
-|---|---|
-| 1 → Add Task | Choose Basic / Priority / Recurring |
-| 2 → View Tasks | All / Pending / Completed / Search |
-| 3 → Task Actions | Complete, Delete, Escalate, Reset |
-| 4 → Statistics | Progress bar + counts |
-| 0 → Exit | Saves automatically |
+Python | OOP | Backend Development | AI/GenAI
